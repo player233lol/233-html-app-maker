@@ -6,7 +6,7 @@ We use H5app to let you html file to apk file,
 # ABOUT
 This app was written by player233lol
 This app just can run in windows
-you can run packup-yourlanguageID.exe to run us app
+you can run packup-yourlanguageID.exe to use us app
 # language
 
 Now,we support 
