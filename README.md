@@ -16,8 +16,6 @@ You can send the language files of your country to 3602159197@qq.com
 The language file is in language\a.txt
 
 # log
-*The path EN is incomplete*
+The biggest bug!
 
 1.delete error path
-2.add language path
-3.add 2HAM-en and 2HAM-cn
