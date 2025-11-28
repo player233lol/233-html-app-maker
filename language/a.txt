@@ -1,0 +1,52 @@
+The following are all the texts within the app:
+---------------------------------------------------------------------------------------------------
+
+HTML packaged APK by player233lol
+
+commands
+
+Clear cache
+
+Package APK
+
+Configure the output APK
+
+Invalid command
+
+Press any key to retry
+
+The file path for storing HTML
+
+The full path of the HTML file to be packaged
+
+For Example,
+
+Please enter the full path of the HTML file
+
+Press any key to re-enter
+
+The path is invalid or the file does not exist
+
+File copy completed. Starting packaging.
+
+Packing progress
+
+Settings icon
+
+Configure Application Name
+
+Setting package Name
+
+The file path for storing PNG
+
+The full path of the icon to be packaged
+
+The packed icon must be | 64×64 128×128 256×256 | in size
+
+Please enter the full path of the PNG file
+
+This feature is not supported
+---------------------------------------------------------------------------------------------------
+Thank you for your translation
+your name:
+languageID:
