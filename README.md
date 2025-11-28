@@ -14,3 +14,7 @@ Chinese (cn)
 English (en)
 You can send the language files of your country to 3602159197@qq.com
 The language file is in language\a.txt
+
+# log
+*The path EN is incomplete*
+delete error path
