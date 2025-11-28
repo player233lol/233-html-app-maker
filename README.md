@@ -17,4 +17,7 @@ The language file is in language\a.txt
 
 # log
 *The path EN is incomplete*
-delete error path
+
+1.delete error path
+2.add language path
+3.add 2HAM-en and 2HAM-cn
